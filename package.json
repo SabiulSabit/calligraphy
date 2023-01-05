@@ -15,7 +15,7 @@
     "@babel/preset-env": "^7.7.7",
     "@sendgrid/mail": "^6.4.0",
     "axios": "^0.21.2",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.3.0",
     "bable-loader": "0.0.1-security",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
@@ -35,7 +35,7 @@
     "sanitize-html": "^1.20.1",
     "socket.io": "^2.5.0",
     "validator": "^13.7.0",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
