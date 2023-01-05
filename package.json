@@ -27,7 +27,7 @@
     "ejs": "^3.1.7",
     "express": "^4.17.3",
     "express-sesssion": "^1.15.5",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "marked": "^4.0.10",
     "md5": "^2.2.1",
     "mongodb": "^3.4.1",
