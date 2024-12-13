@@ -31,7 +31,7 @@
     "marked": "^4.0.10",
     "md5": "^2.2.1",
     "mongodb": "^3.4.1",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.22",
     "sanitize-html": "^2.12.1",
     "socket.io": "^2.5.0",
     "validator": "^13.7.0",
