@@ -14,7 +14,7 @@
     "@babel/core": "^8.0.1",
     "@babel/preset-env": "^8.0.2",
     "@sendgrid/mail": "^8.1.4",
-    "axios": "^1.16.0",
+    "axios": "^1.18.1",
     "babel-loader": "^10.1.1",
     "bable-loader": "0.0.1-security",
     "bcryptjs": "^2.4.3",
